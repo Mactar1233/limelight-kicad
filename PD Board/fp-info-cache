@@ -1,4 +1,4 @@
-26440275302886562
+26431541910820105
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59219,34 +59219,6 @@ ceramic
 0
 3
 3
-CustomImports
-26041102
-2604-1102-1
-Connector
-0
-4
-4
-CustomImports
-LTST-C930
-
-
-0
-2
-2
-CustomImports
-Molex_MicroFit+2x2_2068320401
-206832-0401-2
-Connector
-0
-4
-4
-CustomImports
-RES_CF12_STP
-
-CF12JT910R 
-0
-2
-2
 Customconnectors
 CONN-TH_XT30PB-M
 
@@ -70213,34 +70185,6 @@ LED_THT
 LED_VCCLite_5381H7_6.35x6.35mm
 Yellow 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
 Yellow 5381 Series LED
-0
-2
-2
-MCP1792T3302HCB
-SOT-23A_CB_MCH
-
-MCP1792T-3302H/CB 
-0
-3
-3
-MCP1792T3302HCB
-SOT-23A_CB_MCH-L
-
-MCP1792T-3302H/CB 
-0
-3
-3
-MCP1792T3302HCB
-SOT-23A_CB_MCH-M
-
-MCP1792T-3302H/CB 
-0
-3
-3
-MOLEXMega
-CONN_2002411000_02_MOL
-
-2002411112 
 0
 2
 2
@@ -105661,13 +105605,6 @@ Varistor
 Varistor_Panasonic_VF
 Panasonic VF series varistor, 6x8mm body, 3.2mm height, https://mediap.industry.panasonic.eu/assets/imported/industrial.panasonic.com/cdbs/www-data/pdf/AWA0000/AWA0000C4.pdf
 Varistor VF
-0
-2
-2
-footprints
-RES_ALSR01_VIS
-
-ALSR012K500JE12 
 0
 2
 2
