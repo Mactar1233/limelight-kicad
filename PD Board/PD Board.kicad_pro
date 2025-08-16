@@ -516,7 +516,7 @@
       "plot": "PDPPCBRev1Prod",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "PD Board6.step",
+      "step": "PD Board10.step",
       "svg": "",
       "vrml": ""
     },

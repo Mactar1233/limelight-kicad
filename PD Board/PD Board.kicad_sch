@@ -9,402 +9,6 @@
 		(rev "LL-Proxy-PD-A ")
 	)
 	(lib_symbols
-		(symbol "2025-08-04_21-40-05:2002411112"
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 8.89 6.35 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "2002411112"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" "CONN_2002411000_02_MOL"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.molex.com/en-us/products/part-detail-pdf/2002411112?display=pdf"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "2002411112"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "CONN_2002411000_02_MOL"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "2002411112_1_1"
-				(polyline
-					(pts
-						(xy 5.08 2.54) (xy 5.08 -5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 -5.08) (xy 12.7 -5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 0) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 0) (xy 8.89 0.8467)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 0) (xy 8.89 -0.8467)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -2.54) (xy 5.08 -2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -2.54) (xy 8.89 -1.6933)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -2.54) (xy 8.89 -3.3867)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 2.54) (xy 5.08 2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 -5.08) (xy 12.7 2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "2002411112_1_2"
-				(polyline
-					(pts
-						(xy 5.08 2.54) (xy 5.08 -5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 -5.08) (xy 12.7 -5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 8.89 0.8467)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 8.89 -0.8467)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -2.54) (xy 5.08 -2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -2.54) (xy 8.89 -1.6933)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -2.54) (xy 8.89 -3.3867)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 2.54) (xy 5.08 2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 -5.08) (xy 12.7 2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "2604-1102:2604-1102"
 			(pin_names
 				(offset 0.762)
@@ -1812,6 +1416,12 @@
 		(uuid "4a950bf3-39be-473a-b24d-b4935097ced4")
 	)
 	(junction
+		(at 64.77 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ecca27a-9de9-47da-97c1-c67c6d8c95ed")
+	)
+	(junction
 		(at 151.13 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1914,6 +1524,12 @@
 		(uuid "c6ec59f5-a476-48c6-9c75-778c10453bde")
 	)
 	(junction
+		(at 87.63 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cde32115-ff36-4118-a913-7c3035bb0fd2")
+	)
+	(junction
 		(at 177.8 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1995,16 +1611,6 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 90.17) (xy 64.77 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a1dbfe6-f175-4249-99ed-d055cf35619d")
-	)
-	(wire
-		(pts
 			(xy 163.83 151.13) (xy 137.16 151.13)
 		)
 		(stroke
@@ -2012,6 +1618,16 @@
 			(type default)
 		)
 		(uuid "0e81414e-0131-42c8-9099-5bf60b8d092c")
+	)
+	(wire
+		(pts
+			(xy 64.77 92.71) (xy 64.77 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ef5f1cc-f4b1-4adb-8783-e2fd70903439")
 	)
 	(wire
 		(pts
@@ -2052,6 +1668,16 @@
 			(type default)
 		)
 		(uuid "17a5884a-a832-4908-9825-b53b6585c6c8")
+	)
+	(wire
+		(pts
+			(xy 74.93 104.14) (xy 64.77 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17ccf1f9-8fc0-47e1-944b-325da0568bb1")
 	)
 	(wire
 		(pts
@@ -2122,6 +1748,16 @@
 			(type default)
 		)
 		(uuid "28cf0182-001f-4086-b39d-b7278589368a")
+	)
+	(wire
+		(pts
+			(xy 87.63 90.17) (xy 87.63 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ac1f609-19ac-403a-9f33-9539cbd10dec")
 	)
 	(wire
 		(pts
@@ -2275,6 +1911,16 @@
 	)
 	(wire
 		(pts
+			(xy 64.77 78.74) (xy 74.93 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "462aa919-3e08-4766-965c-92ca1da41563")
+	)
+	(wire
+		(pts
 			(xy 27.94 179.07) (xy 27.94 175.26)
 		)
 		(stroke
@@ -2282,6 +1928,16 @@
 			(type default)
 		)
 		(uuid "46391f8c-9e8f-4463-b2a9-35ada5287e9b")
+	)
+	(wire
+		(pts
+			(xy 87.63 90.17) (xy 93.98 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47f50bd0-c2de-48a7-bec2-67e8b2766a0f")
 	)
 	(wire
 		(pts
@@ -2445,6 +2101,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 104.14) (xy 87.63 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "729f8cce-aee4-47ed-bbd7-bd631a151021")
+	)
+	(wire
+		(pts
 			(xy 151.13 140.97) (xy 163.83 140.97)
 		)
 		(stroke
@@ -2475,6 +2141,16 @@
 	)
 	(wire
 		(pts
+			(xy 64.77 78.74) (xy 64.77 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "784d8318-70d4-4701-ad7e-3ee3ae95c098")
+	)
+	(wire
+		(pts
 			(xy 217.17 105.41) (xy 218.44 105.41)
 		)
 		(stroke
@@ -2495,16 +2171,6 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 92.71) (xy 64.77 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "846f0cf1-490c-49da-9da9-edd23e5b9fbf")
-	)
-	(wire
-		(pts
 			(xy 218.44 140.97) (xy 231.14 140.97)
 		)
 		(stroke
@@ -2522,6 +2188,16 @@
 			(type default)
 		)
 		(uuid "8a65af74-fc70-459a-8911-0e95270db953")
+	)
+	(wire
+		(pts
+			(xy 87.63 78.74) (xy 77.47 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cc79e9b-47a8-49d3-9b85-707346785076")
 	)
 	(wire
 		(pts
@@ -2562,6 +2238,16 @@
 			(type default)
 		)
 		(uuid "92d63c19-f66c-48ff-b651-cdeda4ee1135")
+	)
+	(wire
+		(pts
+			(xy 54.61 92.71) (xy 64.77 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94e04548-3eac-4345-a5aa-1ce2d541683b")
 	)
 	(wire
 		(pts
@@ -2835,6 +2521,16 @@
 	)
 	(wire
 		(pts
+			(xy 87.63 104.14) (xy 87.63 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4a35056-93dc-416c-aa06-2a3cb8b1431e")
+	)
+	(wire
+		(pts
 			(xy 138.43 144.78) (xy 138.43 140.97)
 		)
 		(stroke
@@ -3085,7 +2781,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 54.61 90.17 270)
+		(at 93.98 90.17 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3094,7 +2790,7 @@
 		(fields_autoplaced yes)
 		(uuid "05b15409-6a10-4500-907b-b18e0fa66194")
 		(property "Reference" "#PWR02"
-			(at 48.26 90.17 0)
+			(at 100.33 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3103,7 +2799,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 50.8 90.1699 90)
+			(at 97.79 90.1699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3112,7 +2808,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 90.17 0)
+			(at 93.98 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3121,7 +2817,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 90.17 0)
+			(at 93.98 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3130,7 +2826,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 90.17 0)
+			(at 93.98 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3176,7 +2872,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MCP1792T3302HCB:SOT-23A_CB_MCH"
+		(property "Footprint" "Customconnectors:SOT-23A_CB_MCH"
 			(at 74.93 52.07 0)
 			(effects
 				(font
@@ -3337,7 +3033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor:26041102"
+		(property "Footprint" "Customconnectors:26041102"
 			(at 168.91 142.24 0)
 			(effects
 				(font
@@ -3505,7 +3201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor:26041102"
+		(property "Footprint" "Customconnectors:26041102"
 			(at 213.36 113.03 0)
 			(effects
 				(font
@@ -3791,87 +3487,6 @@
 		)
 	)
 	(symbol
-		(lib_id "2025-08-04_21-40-05:2002411112")
-		(at 64.77 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4b7aab5e-1a11-4b55-88af-3bb1bff2afad")
-		(property "Reference" "M1"
-			(at 78.74 90.1699 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2002411112"
-			(at 78.74 92.7099 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MOLEXMega:CONN_2002411000_02_MOL"
-			(at 64.77 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail-pdf/2002411112?display=pdf"
-			(at 64.77 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 64.77 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C17294544"
-			(at 64.77 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "17f8fea2-4141-41d0-b032-4c016aab89cf")
-		)
-		(pin "2"
-			(uuid "3e427837-5732-40e7-9f5b-9dba5f81b040")
-		)
-		(instances
-			(project ""
-				(path "/3591d1ab-aba1-4c94-bbfb-78a6da1bb333"
-					(reference "M1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 146.05 127 270)
 		(unit 1)
@@ -3964,7 +3579,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CustomImports:LTST-C930"
+		(property "Footprint" "Customconnectors:LTST-C930"
 			(at 156.21 76.2 0)
 			(effects
 				(font
@@ -4196,7 +3811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor:26041102"
+		(property "Footprint" "Customconnectors:26041102"
 			(at 222.25 142.24 0)
 			(effects
 				(font
@@ -4364,7 +3979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor:26041102"
+		(property "Footprint" "Customconnectors:26041102"
 			(at 142.24 142.24 0)
 			(effects
 				(font
@@ -4660,7 +4275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor:26041102"
+		(property "Footprint" "Customconnectors:26041102"
 			(at 240.03 113.03 0)
 			(effects
 				(font
@@ -4966,7 +4581,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor:26041102"
+		(property "Footprint" "Customconnectors:26041102"
 			(at 186.69 113.03 0)
 			(effects
 				(font
@@ -5173,6 +4788,174 @@
 		)
 	)
 	(symbol
+		(lib_id "2604-1102:2604-1102")
+		(at 77.47 104.14 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "98f6fd2b-7ed3-4250-80f2-bb390754977a")
+		(property "Reference" "P9"
+			(at 75.946 92.964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2604-1102"
+			(at 81.28 90.1701 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Customconnectors:26041102"
+			(at 80.01 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.wago.com/2604-1102"
+			(at 77.47 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "PCB terminal block; lever; 4 mm; Pin spacing 5 mm; 2-pole; Push-in CAGE CLAMP"
+			(at 77.47 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "PCB terminal block; lever; 4 mm; Pin spacing 5 mm; 2-pole; Push-in CAGE CLAMP"
+			(at 74.93 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "16.7"
+			(at 72.39 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Wago"
+			(at 69.85 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "2604-1102"
+			(at 67.31 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 64.77 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 62.23 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "2604-1102"
+			(at 59.69 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/2604-1102/wago-kontakttechnik-gmbh?utm_currency=USD&region=nac"
+			(at 57.15 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C3309286"
+			(at 77.47 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "928951b4-211f-4f2e-af64-0df3475f8e07")
+		)
+		(pin "4"
+			(uuid "b4fc4f45-60ba-4c92-acce-484643d9f6f6")
+		)
+		(pin "2"
+			(uuid "11410af8-d65e-4a77-a3f0-a07cfd9af7eb")
+		)
+		(pin "3"
+			(uuid "b2bbdfeb-1350-44ca-9f9f-8b7887e4b705")
+		)
+		(instances
+			(project "PD Board"
+				(path "/3591d1ab-aba1-4c94-bbfb-78a6da1bb333"
+					(reference "P9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 123.19 58.42 0)
 		(unit 1)
@@ -5279,7 +5062,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor:26041102"
+		(property "Footprint" "Customconnectors:26041102"
 			(at 160.02 113.03 0)
 			(effects
 				(font
@@ -5721,7 +5504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor:26041102"
+		(property "Footprint" "Customconnectors:26041102"
 			(at 195.58 142.24 0)
 			(effects
 				(font
