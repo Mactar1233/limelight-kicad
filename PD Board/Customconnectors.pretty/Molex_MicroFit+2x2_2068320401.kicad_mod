@@ -250,15 +250,4 @@
 		(uuid "78402b1a-b9ad-4b75-9700-c1ad88df02ca")
 	)
 	(embedded_fonts no)
-	(model "${ROBOTLOGIC}/206832-0401.stp"
-		(offset
-			(xyz -1.49 2.18 3.21)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
 )

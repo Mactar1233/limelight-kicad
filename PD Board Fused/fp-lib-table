@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Customconnectors")(type "KiCad")(uri "${KIPRJMOD}/Customconnectors.pretty")(options "")(descr ""))
+)
