@@ -4,4 +4,5 @@
   (lib (name "01530009Z")(type "KiCad")(uri "${KIPRJMOD}/Schematic Import/01530009Z.kicad_sym")(options "")(descr ""))
   (lib (name "2604-1102")(type "Legacy")(uri "${KIPRJMOD}/Schematic Import/2604-1102.lib")(options "")(descr ""))
   (lib (name "3557-2")(type "KiCad")(uri "${KIPRJMOD}/Schematic Import/3557-2.kicad_sym")(options "")(descr ""))
+  (lib (name "3544-2")(type "KiCad")(uri "${KIPRJMOD}/Schematic Import/3544-2.kicad_sym")(options "")(descr ""))
 )
